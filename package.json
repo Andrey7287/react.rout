@@ -1,5 +1,5 @@
 {
-	"name": "new.react",
+	"name": "react.rout",
 	"version": "1.0.0",
 	"description": "description here",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Andrey7287/new.react.git"
+		"url": "git+https://github.com/Andrey7287/react.rout.git"
 	},
 	"keywords": [
 		"-"
@@ -18,9 +18,9 @@
 	"author": "Alekseev.A",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Andrey7287/new.react/issues"
+		"url": "https://github.com/Andrey7287/react.rout/issues"
 	},
-	"homepage": "https://github.com/Andrey7287/new.react#readme",
+	"homepage": "https://github.com/Andrey7287/react.rout#readme",
   "dependencies": {
     "jquery": "^3.1.1",
     "jquery-fancybox": "^3.1.0",

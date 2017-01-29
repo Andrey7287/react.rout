@@ -1,14 +1,5 @@
 import React from 'react';
-import
+import ReactDOM from 'react-dom';
+import { Router, Route} from 'react-router';
+import Hello from './components/hello';
 
-export default class extends React.Component {
-
-	render() {
-		return (
-			<div className="app">
-
-			</div>
-		);
-	}
-
-}

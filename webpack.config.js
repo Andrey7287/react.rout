@@ -81,7 +81,8 @@ module.exports = {
 	},
 
 	devServer: NODE_ENV == 'development' ? {
-		hot: true
+		hot: true,
+		historyApiFallback: true
 	} : {}
 
 };
