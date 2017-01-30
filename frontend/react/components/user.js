@@ -4,9 +4,11 @@ export default class User extends React.Component {
 
 	render() {
 		return (
-			<div>
-				<h1>I`m user!</h1>
-			</div>
+			<ul className="user-list">
+				<li>Dan</li>
+				<li>Ryan</li>
+				<li>Michael</li>
+			</ul>
 		);
 	}
 
